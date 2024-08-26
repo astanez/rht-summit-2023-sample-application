@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://c.files.bbci.co.uk/D8CD/production/_117310555_16.jpg"
     ]
 kind: ConfigMap
 metadata:
